@@ -11,7 +11,7 @@
         <h1 class="col-12 col-md-4">Dados pessoais</h1>
         <div class="col-12 col-md-8 desc">
             <div class="col-12 col-md-4" id="image-container">
-                <img src="foto perfil.jpg" alt="Foto do curriculo">
+                <img src="https://i.pinimg.com/originals/3c/12/d2/3c12d21db15adc211b61750e6ac1f404.gif" alt="Foto do curriculo">
             </div>
             <div class="col-12 col-md-8">
                 <p id="name">Tiago Moises</p>

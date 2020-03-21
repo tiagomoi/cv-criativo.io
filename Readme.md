@@ -8,7 +8,7 @@
 <body class="container-fluid" class="charset-UTF-8">
         <link rel="stylesheet" href="style.css">
     <div id="session1" class="row">
-        <h1 class="col-12 col-md-4">Dados pessoais</h1>
+        <h1 class="col-12 col-md-4">Dados Pessoais</h1>
         <div class="col-12 col-md-8 desc">
             <div class="col-12 col-md-4" id="image-container">
                 <img src="https://i.pinimg.com/originals/3c/12/d2/3c12d21db15adc211b61750e6ac1f404.gif" alt="Foto do curriculo">
@@ -20,13 +20,11 @@
                 <p><a href="https://tiagomoi.github.io/tiago.github.io/" id="site">Veja mais no meu site</a></p>
             </div>
         </div>
-    </div>
+    </div>        
+### vídeo sobre a trajetória acadêmica
+[![Assunto relacionado a vida acadêmica ](http://img.youtube.com/vi/Hn2fRN1UI24/0.jpg)](http://www.youtube.com/watch?v=Hn2fRN1UI24 "Resumo da minha trajetória acadêmica")
     <div id="session6" class="row">
-        <h2 class="col-12 col-md-4 title">meu vídeo</h2>
-        <div id="video-container" class="col-12 col-md-8 desc">
-            <iframe width="360" height="315" src="https://www.youtube.com/embed/Lf3ZV0UsnEo" frameborder="0"
-                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen></iframe>
+
         </div>
     </div>
     <div id="session2" class="row">
